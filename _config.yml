@@ -1,9 +1,9 @@
 title:              Testing Jekyll
 email:              pi@mrow.dev
-description:        Testing Jekyll for a client's website
+description:        "Testing Jekyll for a client's website"
 author:             Pi
 baseurl:            ""
-url:                "https://pithesnep.github.io"
+url:                https://pithesnep.github.io
 
 # Social Profiles
 twitter_username:   PiTheSnep
